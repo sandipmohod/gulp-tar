@@ -32,7 +32,7 @@
     "streams"
   ],
   "dependencies": {
-    "archiver": "^0.15.1",
+    "archiver": "https://github.com/sseixas/node-archiver/tarball/sanitize-name",
     "gulp-util": "^3.0.0",
     "object-assign": "^4.0.1",
     "through2": "^2.0.0"
